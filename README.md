@@ -37,8 +37,8 @@ Welcome to my GitHub! After 30+ years in enterprise IT—spanning healthcare, bi
 
 ## 📫 Let’s Connect
 
-- [LinkedIn](https://www.linkedin.com/in/your-link-here)
-- Email: your.email@example.com
+- [LinkedIn](https://www.linkedin.com/in/kevinvia/)
+- Email: kevin.c.via11@gmail.com
 
 ---
 
