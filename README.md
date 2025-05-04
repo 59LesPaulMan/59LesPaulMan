@@ -31,7 +31,9 @@ Welcome to my GitHub! After 30+ years in enterprise IT—spanning healthcare, bi
 
 - **AI-900: Microsoft Azure AI Fundamentals**
 - **PMP, SAFe Agilist**
-- In progress: TensorFlow Developer Cert / AI-102
+- **MCSE, MCP+I, CCNA, SCSA (Solaris 8), Server+
+- In progress: HarvardX CS50 Python, AI/ML with Python
+- - In progress: TensorFlow Developer Cert / AI-102
 
 ## 📫 Let’s Connect
 
