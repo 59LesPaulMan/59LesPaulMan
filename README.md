@@ -1,18 +1,18 @@
 # 👋 Hi, I'm Kevin Via (a.k.a. 59LesPaulMan)
 
-🎯 **AI/ML Technologist | Python Developer | Former VA Health IT Leader | Cloud & Systems Engineering Background**
+🎯 **AI/ML Technologist Building Python Solutions for Healthcare | Former VA IT Leader | Cloud-Native & Systems Engineering Expert**
 
 Welcome to my GitHub! After 30+ years in enterprise IT—spanning healthcare, biotech, and early banking—I’m now focused on building intelligent solutions with **Python**, **machine learning**, and **cloud-native tools**.
 
 ## 🚀 What I'm Working On
 
-- 📘 Completing HarvardX courses in **Python programming** and **AI/Machine Learning**
-- 🤖 Developing ML projects for:
-  - Natural language processing (NLP)
-  - Image classification
-  - Time series forecasting
-  - RESTful APIs for AI models (FastAPI)
-- ☁️ Leveraging **Azure AI**, **AWS**, and open-source libraries like `scikit-learn`, `pandas`, `NumPy`, and `TensorFlow`
+- 📘 Completing HarvardX courses in **Python programming**
+
+🤖 Current ML Projects:
+- 🗣️ Natural Language Processing with Azure OpenAI & RAG architecture
+- 🖼️ Image Classification using TensorFlow and Keras
+- 📈 Time Series Forecasting with scikit-learn
+- 🚀 RESTful API deployment using FastAPI for ML model serving
 
 ## 🧰 Tech Stack
 
@@ -29,12 +29,15 @@ Welcome to my GitHub! After 30+ years in enterprise IT—spanning healthcare, bi
 
 ## 🧠 Certifications
 
-- **AI-900: Microsoft Azure AI Fundamentals**
-- **PMP, SAFe Agilist**
-- **MCSE, MCP+I, CCNA, SCSA (Solaris 8), Server+
-- In progress: HarvardX CS50 Python, AI/ML with Python
-- - In progress: TensorFlow Developer Cert / AI-102
-
+🧠 Certifications & Training:
+- ✅ AI-900: Microsoft Azure AI Fundamentals
+- HarvardX CS50 Python
+- 📜 PMP, SAFe Agilist
+- 🖥️ MCSE, MCP+I, CCNA, SCSA (Solaris 8), Server+
+- 📘 In Progress:
+   - AI-102: Designing and Implementing Microsoft Azure AI Solutions
+   - TensorFlow Developer Certificate (Planned)
+     
 ## 📫 Let’s Connect
 
 - [LinkedIn](https://www.linkedin.com/in/kevinvia/)
