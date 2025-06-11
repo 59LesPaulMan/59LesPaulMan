@@ -1,48 +1,42 @@
 # 👋 Hi, I'm Kevin Via (a.k.a. 59LesPaulMan)
 
-🎯 **AI/ML Technologist Building Python Solutions for Healthcare | Former VA IT Leader | Cloud-Native & Systems Engineering Expert**
+🎯 AI/ML Technologist | Python Developer | Former VA Health IT Leader | Cloud & Systems Engineer
 
-Welcome to my GitHub! After 30+ years in enterprise IT—spanning healthcare, biotech, and early banking—I’m now focused on building intelligent solutions with **Python**, **machine learning**, and **cloud-native tools**.
+Welcome to my GitHub! I’m a hands-on technologist with 30+ years in enterprise IT—now focused on building intelligent solutions with Python, Azure AI, and cloud-native tools.
 
 ## 🚀 What I'm Working On
 
-- 📘 Completing HarvardX courses in **Python programming**
+🧠 Studying for Microsoft AI-102: Designing & Implementing Azure AI Solutions  
+🔧 Building AI projects with Semantic Kernel and Azure OpenAI  
+📘 Completing HarvardX CS50 courses in Python and AI/ML  
+📈 Publishing ML experiments and prompt engineering labs to GitHub  
 
-🤖 Current ML Projects:
-- 🗣️ Natural Language Processing with Azure OpenAI & RAG architecture
-- 🖼️ Image Classification using TensorFlow and Keras
-- 📈 Time Series Forecasting with scikit-learn
-- 🚀 RESTful API deployment using FastAPI for ML model serving
+## 🛠️ Tech Stack
 
-## 🧰 Tech Stack
+**Languages:** Python, SQL, Bash/KSH, VB (legacy)  
+**AI/ML:** Semantic Kernel, Azure OpenAI, scikit-learn, TensorFlow  
+**Cloud:** Azure, AWS  
+**Dev Tools:** Git, VS Code, Jupyter, FastAPI, GitHub Actions, Terraform  
 
-- **Languages**: Python, Bash/KSH (legacy), SQL, VB (historic)
-- **AI/ML**: scikit-learn, TensorFlow, OpenAI APIs, Azure AI Services
-- **Cloud**: AWS, Azure
-- **Tools**: Git, FastAPI, Jupyter, VS Code, Terraform (AWS infra), GitHub Actions
+## 🧪 Featured Projects
+
+- [Semantic Kernel Prompts Lab](https://github.com/59LesPaulMan/semantic-kernel-prompts-lab):  
+  AI assistant built with Azure OpenAI (GPT-4o) to suggest careers and identify skill gaps.
 
 ## 🏥 Domain Expertise
 
-- **20 years** in U.S. Department of Veterans Affairs Health IT
-- Background in **biotech systems**, hospital IT support, and **early banking IT**
-- Strong interest in **AI for healthcare, patient outcomes, clinical documentation, and compliance**
+- 20 years leading U.S. Department of Veterans Affairs Health IT programs  
+- Experience in biotech, hospital IT support, and banking tech infrastructure  
+- Deep interest in clinical AI, patient outcomes, documentation, and compliance  
 
-## 🧠 Certifications
+## 🎓 Certifications & Training
 
-🧠 Certifications & Training:
-- ✅ AI-900: Microsoft Azure AI Fundamentals
-- HarvardX CS50 Python
-- 📜 PMP, SAFe Agilist
-- 🖥️ MCSE, MCP+I, CCNA, SCSA (Solaris 8), Server+
-- 📘 In Progress:
-   - AI-102: Designing and Implementing Microsoft Azure AI Solutions
-   - TensorFlow Developer Certificate (Planned)
-     
-## 📫 Let’s Connect
+- ✅ Microsoft Certified: AI-900 Azure AI Fundamentals  
+- 🎓 HarvardX CS50P: Python Programming (in progress)  
+- 🎯 AI-102: Designing Azure AI Solutions (in progress)  
+- 📜 PMP, SAFe Agilist, MCSE, CCNA, SCSA (Solaris 8), Server+  
 
-- [LinkedIn](https://www.linkedin.com/in/kevinvia/)
-- Email: kevin.c.via11@gmail.com
+## 🤝 Let’s Connect
 
----
-
-🧪 Always experimenting. Always learning. Check out my pinned projects below!
+📧 Email: kevin.c.via11@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/kevinvia/)
