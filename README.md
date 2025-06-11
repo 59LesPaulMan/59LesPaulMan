@@ -2,41 +2,50 @@
 
 🎯 AI/ML Technologist | Python Developer | Former VA Health IT Leader | Cloud & Systems Engineer
 
-Welcome to my GitHub! I’m a hands-on technologist with 30+ years in enterprise IT—now focused on building intelligent solutions with Python, Azure AI, and cloud-native tools.
+After 30+ years in enterprise IT—across federal health, biotech, and early banking—I’m now focused on building intelligent, secure solutions using Python, Azure AI, and cloud-native tools.
 
-## 🚀 What I'm Working On
+## 🚀 Current Focus
 
-🧠 Studying for Microsoft AI-102: Designing & Implementing Azure AI Solutions  
-🔧 Building AI projects with Semantic Kernel and Azure OpenAI  
-📘 Completing HarvardX CS50 courses in Python and AI/ML  
-📈 Publishing ML experiments and prompt engineering labs to GitHub  
+- 🧠 Studying for Microsoft AI-102: Designing & Implementing Azure AI Solutions  
+- ✅ Hands-on labs with Azure OpenAI, Semantic Kernel, and Key Vault  
+- 🧪 Showcasing projects that combine prompt engineering with secure AI practices  
+- 📘 Completed CS50P (Python) and building GitHub portfolio of applied AI
 
-## 🛠️ Tech Stack
+## 🧰 Tech Stack
 
 **Languages:** Python, SQL, Bash/KSH, VB (legacy)  
 **AI/ML:** Semantic Kernel, Azure OpenAI, scikit-learn, TensorFlow  
 **Cloud:** Azure, AWS  
-**Dev Tools:** Git, VS Code, Jupyter, FastAPI, GitHub Actions, Terraform  
+**Dev Tools:** VS Code, Jupyter, Git, FastAPI, GitHub Actions, Terraform  
 
-## 🧪 Featured Projects
+## 🔬 Featured Repositories
 
-- [Semantic Kernel Prompts Lab](https://github.com/59LesPaulMan/semantic-kernel-prompts-lab):  
-  AI assistant built with Azure OpenAI (GPT-4o) to suggest careers and identify skill gaps.
+- [📘 Harvard-CS50P](https://github.com/59LesPaulMan/Harvard-CS50P)  
+  Final project: *Coming of Age Jukebox* – CLI app using iTunes API & pyfiglet for musical nostalgia based on age.
 
-## 🏥 Domain Expertise
+- [🔐 semantic-kernel-lab](https://github.com/59LesPaulMan/semantic-kernel-lab)  
+  Microsoft Applied Skills Lab: Secure AI apps with Azure Key Vault and Python client libraries.
 
-- 20 years leading U.S. Department of Veterans Affairs Health IT programs  
-- Experience in biotech, hospital IT support, and banking tech infrastructure  
-- Deep interest in clinical AI, patient outcomes, documentation, and compliance  
+- [🤖 semantic-kernel-prompts-lab](https://github.com/59LesPaulMan/semantic-kernel-prompts-lab)  
+  AI career assistant built with Semantic Kernel & GPT-4o — suggests job roles, identifies skill gaps, and recommends learning paths.
+
+## 🏥 Industry Experience
+
+- 🏛️ 20 years at U.S. Department of Veterans Affairs (VA) leading Health IT modernization  
+- 🔬 Biotech systems (MWG Biotech), hospital IT, and early banking IT  
+- 🎯 Focused on AI for clinical outcomes, secure infrastructure, and healthcare transformation
 
 ## 🎓 Certifications & Training
 
-- ✅ Microsoft Certified: AI-900 Azure AI Fundamentals  
-- 🎓 HarvardX CS50P: Python Programming (in progress)  
-- 🎯 AI-102: Designing Azure AI Solutions (in progress)  
-- 📜 PMP, SAFe Agilist, MCSE, CCNA, SCSA (Solaris 8), Server+  
+- ✅ Microsoft Certified: AI-900 (Azure AI Fundamentals)  
+- 🎓 HarvardX CS50P: Introduction to Programming with Python  
+- 🎯 In Progress: Microsoft AI-102  
+- 🛠️ Applied Skills Labs:  
+  - Secure AI with Key Vault  
+  - Prompt Engineering with Semantic Kernel  
+- 📜 PMP, SAFe Agilist, MCSE, CCNA, SCSA (Solaris 8), Server+
 
-## 🤝 Let’s Connect
+## 🤝 Connect
 
-📧 Email: kevin.c.via11@gmail.com  
+📫 Email: kevin.c.via11@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/kevinvia/)
