@@ -20,14 +20,17 @@ After 30+ years in enterprise IT—across federal health, biotech, and early ban
 
 ## 🔬 Featured Repositories
 
-- [📘 Harvard-CS50P](https://github.com/59LesPaulMan/Harvard-CS50P)  
-  Final project: *Coming of Age Jukebox* – CLI app using iTunes API & pyfiglet for musical nostalgia based on age.
+- [✈️ semantic-SDK-kernel-plugins](https://github.com/59LesPaulMan/semantic-SDK-kernel-plugins)  
+  Microsoft Applied Skills Lab: AI assistant using Semantic Kernel plugins to search and book flights via GPT-4o and a custom Python plugin layer.
 
 - [🔐 semantic-kernel-lab](https://github.com/59LesPaulMan/semantic-kernel-lab)  
   Microsoft Applied Skills Lab: Secure AI apps with Azure Key Vault and Python client libraries.
 
 - [🤖 semantic-kernel-prompts-lab](https://github.com/59LesPaulMan/semantic-kernel-prompts-lab)  
   AI career assistant built with Semantic Kernel & GPT-4o — suggests job roles, identifies skill gaps, and recommends learning paths.
+
+- [📘 Harvard-CS50P](https://github.com/59LesPaulMan/Harvard-CS50P)  
+  Final project: *Coming of Age Jukebox* – CLI app using iTunes API & pyfiglet for musical nostalgia based on age.
 
 ## 🏥 Industry Experience
 
