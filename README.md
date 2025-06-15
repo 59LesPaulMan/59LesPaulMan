@@ -8,7 +8,7 @@ After 30+ years in enterprise IT—across federal health, biotech, and early ban
 
 🧠 Deep-diving into CS50AI: Harvard's Introduction to Artificial Intelligence with Python
 ✅ Building intelligent agents, search algorithms, knowledge modeling, inference engines, and neural networks
-📘 Completed CS50P (Python) and showcasing applied AI projects across GitHub
+📘 Completed CS50P (Python) and showcasing applied AI project within GitHub
 🧪 Posting each CS50AI project with detailed documentation and reflections
 
 🧰 Tech Stack
